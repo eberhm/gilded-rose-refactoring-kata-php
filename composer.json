@@ -1,0 +1,19 @@
+{
+    "name": "eberhm/gilded-rose-refactoring-kata-php",
+    "description": "Kata for refactoring training session in php",
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "authors": [
+        {
+            "name": "Eber Herrera",
+            "email": "eberhm@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Kata": "src"
+        }
+    },
+    "require": {}
+}
